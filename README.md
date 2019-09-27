@@ -38,8 +38,8 @@ This is the root class of the ontology which is connected to all the sub-classes
       Class : http://www.semanticweb.org/administrator/ontologies/2017/2/CAMO_Ontology-Schema#awardsSentimentValue  
 8. The last class is based-on the reviewers who write reviews in movies.  
 
-## DATA PROPERTIES  
-In CAMO we have used data properties to connect the individuals of classes. These data properties 
+## OBJECT PROPERTIES  
+In CAMO we have used object properties to connect the individuals of different classes. These object properties are predicates that connects subjects and objects. A few object properties used in CAMO are hasCertification, hasSubGenre, hasStorySentiments, and directedBy.
 
 
 
