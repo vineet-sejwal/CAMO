@@ -5,9 +5,8 @@ On the other hand, interactional context represents the opinion components that 
 
 
 
-#DOWNLOADS
+# DOWNLOADS
 
-Prerequisite
 To run CAMO on your system, first, you need to download the CAMO owl file. Once the owl file is downloaded, this file can be run by using either Protege(https://protege.stanford.edu/) or Apache Jena Fuseki (https://jena.apache.org/documentation/fuseki2)/ server.
 
 
