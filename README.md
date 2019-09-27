@@ -4,6 +4,7 @@ On the other hand, interactional context represents the opinion components that 
 .
 
 # DOCUMENTATION
+## CLASSES
 In CAMO, we have used eight different classes (concepts)  
 Class: http://www.semanticweb.org/administrator/ontologies/2017/2/CAMO_Ontology-Schema#Genre  
 This class contains 20 genres used in movies such as, Action and Adventure, Art House and International, Comedy, Crime, Animation,
@@ -15,7 +16,9 @@ With every movie, a certificate attached which gives the information about viole
 Class: http://www.semanticweb.org/administrator/ontologies/2017/2/CAMO_Ontology-Schema#Awards  
 Awards class contains three instances Golden Globe, Academy (Oscar), and BAFTA award. Movies which have won these awards in any categories are assigned to the individuals of this class.  
 Class : http://www.semanticweb.org/administrator/ontologies/2017/2/CAMO_Ontology-Schema#CastandCrew  
-This class 
+This class have the actor (contains the name of all the actors belongs to the collected movies), actress (contains the name of all the actress belongs to the collected movies), and Director (contains the name of all the directors belongs to the collected movies) instances.  
+Class : http://www.semanticweb.org/administrator/ontologies/2017/2/CAMO_Ontology-Schema#Movie  
+This is the root class of the ontology which is connected to all the sub-classes present in the CAMO mentioned above. This class 
 
 
 
